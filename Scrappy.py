@@ -15,8 +15,7 @@ from dotenv import load_dotenv
 
 intents = discord.Intents.default()
 intents.message_content = True
-role_ids = [991307623162990773]
-servers = [990261696650166362]
+servers = [766008315367915600]
 client = discord.Bot()
 messages = discord.Message
 #------------------------------------------------------------------Moderation----------------------------------------------------------------------------------
